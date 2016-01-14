@@ -1,1 +1,41 @@
 /* ADD YOUR STYLES HERE */
+
+.three-images {
+	display: block;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+
+.first-image {
+	padding-right: 20px;
+}
+
+.sixB {
+	display: block;
+	text-align: left;
+	padding: 40px;
+	vertical-align: top;
+}
+
+
+.Image160-6B {
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.text6B, .list6B, .Image80-6B, .Image120-6B, .Image160-6B {
+	float: left;
+}
+
+.text6B, .Image80-6B {
+	padding-right: 35px;
+}
+
+.SevenA {
+	padding-top: 50px;
+}
+
+.SevenB {
+	padding-top: 70px;
+}
+
