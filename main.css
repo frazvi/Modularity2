@@ -130,13 +130,56 @@
 	color: #ff6666;
 }
 
+.date-time {
+	color: #c8c8c8;
+	font-size: 2;
+}
 
+.full-twitter-text {
+	overflow: hidden;
+	padding-left: 7px;
+	padding: 7px;
+}
 
+.twitter-image {
+	float: left;
+	padding: 7px;
+	padding-right: 7px;
+}
 
+.twitter-text-and-images {
+	clear: both;
+}
 
+.tabs-group, .tab-area-content {
+	border: solid #666699;
+	border-width: 1px;
+	border-radius: 7px;
+}
 
+.tabs-ul li {
+	display: inline-block;
+	list-style-type: none;
+	text-decoration: none;
+	padding: 5px 25px ;
+}
 
+.first-tab, .second-tab, .third-tab, .fourth-tab {
+	margin-right: 10px;
+	border-bottom-right-radius: 0 ;
+	border-bottom-left-radius: 0;
+	border-bottom: white;
+}
 
+.second-tab {
+	margin-bottom: -1px;
+	border-bottom: 2px solid white;
+}
 
-
-
+.tab-area-content {
+	padding: 5px;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 10px;
+	margin: -10;
+}
