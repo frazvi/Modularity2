@@ -39,3 +39,104 @@
 	padding-top: 70px;
 }
 
+.Eight-List {
+	display: inline;
+	list-style: none;
+}
+
+.Buy-Now-Button {
+	padding: 25px 70px;
+	border: solid;
+	border-color: orange;
+	background-color: orange;
+	border-radius: 8px;
+}
+
+.Learn-More-Button {
+	padding: 5px 35px 5px 35px;
+	border: solid;
+	border-color: green;
+	border-radius: 5px;
+	background-color: green;
+}
+
+.OK-Button {
+	border: solid;
+	border-color: red;
+	background-color: red;
+	border-radius: 5px;
+}
+
+.Learn-More-Link {
+	background-color: green;
+	border: solid;
+	border-color: green;
+	border-radius: 5px;
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	height: 22px;
+	width: 150px;
+	text-align: center;
+	line-height: 22px;
+}
+
+.Accept-Button, .Submit-Button {
+	background-color: green;
+	border: solid;
+	border-color: green;
+	border-radius: 5px;
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	height: 27px;
+	width: 150px;
+	text-align: center;
+}
+
+.first-nav-bar {
+	display: inline-block;
+	padding: 10px 12px;
+	text-align: center;
+}
+
+.first-nav-bar-ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #ff9999;
+	border-radius: 5px;
+}
+
+.first-nav-bar a {
+	padding-left: 45px;
+	padding-right: 30px;
+	width: 800px;
+	text-decoration: none;
+	color: white;
+}
+
+.first-nav-bar a:hover {
+	color: #111;
+}
+
+.pagination-links {
+	color: #ff6666;
+	display: inline;
+	padding: 10px;
+}
+
+.pagination-links a:hover:not(.active-page) {
+	color: #ff6666;
+}
+
+
+
+
+
+
+
+
+
+
+
